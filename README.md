@@ -1,9 +1,9 @@
 # PIVOT-Gaussian-elimination-or-row-reduction
 linear equation systeme solver with meth of PIVOT
 <p align="center">
-  <img alt="calcul" src="calcul.png" width="100%">
+  <img alt="calcul" src="calcul.png" width="80%">
 </p>
 
 <p align="center">
-  <img alt="calcul" src="compiled.png" width="50%">
+  <img alt="calcul" src="compiled.png" width="45%">
 </p>

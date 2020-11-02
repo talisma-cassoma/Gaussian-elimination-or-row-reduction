@@ -22,8 +22,6 @@ here is one example:
 
 <h2>explanning the algorithm<h2/>  
 
-***General Introduction*** 
-
 <p align="center">
   <img alt="calcul" src="compiled.png" width="45%">
 </p>

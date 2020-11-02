@@ -2,6 +2,7 @@
 linear equation systeme solver with meth of PIVOT
 # What for?
 
+ is an algorithm in linear algebra for solving a system of linear equations.
 *This code is the application of that math method* 
 
 # Projet issues 

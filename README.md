@@ -1,6 +1,6 @@
 # PIVOT-Gaussian-elimination-or-row-reduction
 linear equation systeme solver with meth of PIVOT
-# What for?
+<h2> What for?</h2>
 
 for solving a system of linear equations.
 *This code is the application of that math method* 
@@ -19,7 +19,7 @@ here is one example:
 
 <p align="center">Easy hen!👌😅😂</p>
 
-# explanning the algorithm  
+<h2>explanning the algorithm<h2/>  
 
 ***General Introduction*** 
 

@@ -10,9 +10,9 @@ Do you know how to solve a system of linear equation?
 
 here is one example:
 
-<strong>x  -  y - 4z  =  3</strong><br>
-<strong>2x - 3y + 4z  = 14</strong><br>
-<strong>0  + 8y + 2z  =  0</strong>
+- <strong>x  -  y - 4z  =  3</strong><br>
+- <strong>2x - 3y + 4z  = 14</strong><br>
+- <strong>0  + 8y + 2z  =  0</strong>
 
 <p align="center">
   <img alt="calcul" src="calcul.png" width="80%">

@@ -2,13 +2,13 @@
 linear equation systeme solver with meth of PIVOT
 # What for?
 
- is an algorithm in linear algebra for solving a system of linear equations.
+for solving a system of linear equations.
 *This code is the application of that math method* 
+Do you know how to solve a system of linear equation?
 
-# Projet issues 
+***Let see how we solve it*** 
 
-***let see how we solve it *** 
-
+here is one example:
 <h4>X  -  Y - 4Z  =  3</h4>
 <h4>2X - 3Y + 4Z  = 14</h4>
 <h4>0  + 8Y + 2Z  =  0</h4>
@@ -16,6 +16,9 @@ linear equation systeme solver with meth of PIVOT
 <p align="center">
   <img alt="calcul" src="calcul.png" width="80%">
 </p>
+
+<p align="center">Easy hen!👌😅😂</p>
+
 # explanning the algorithm  
 
 ***General Introduction*** 

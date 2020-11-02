@@ -6,7 +6,7 @@ for solving a system of linear equations.
 *This code is the application of that math method* 
 <p>Do you know how to solve a system of linear equation?</p>
 
-***whatever! Let see how we solve it!*** 
+***Let see how we solve it!*** 
 
 here is one example:
 

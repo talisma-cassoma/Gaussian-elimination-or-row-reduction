@@ -21,7 +21,9 @@ here is one example:
 <p align="center">Easy hen!👌😅😂</p>
 
 <h2>explanning the algorithm<h2/>  
-
+<p align="center">
+  <img alt="calcul" src="organigram.png" width="25%">
+</p>
 <p align="center">
   <img alt="calcul" src="compiled.png" width="45%">
 </p>

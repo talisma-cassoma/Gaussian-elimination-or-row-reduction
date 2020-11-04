@@ -4,7 +4,7 @@
 
 for solving a system of linear equations.
 
-<p>Do you know how to solve a system of linear equation?</p>
+
 
 ***Let see how we solve it!*** 
 

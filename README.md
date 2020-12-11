@@ -15,17 +15,17 @@ here is one example:
 - <strong>0  + 8y + 2z  =  0</strong>
 
 <p align="center">
-  <img alt="calcul" src="calcul.png" width="80%">
+  <img alt="calcul" src="images/calcul.png" width="80%">
 </p>
 
 <p align="center">Easy hen!👌😅😂</p>
 
 <h2>explanning the algorithm<h2/>  
 <p align="center">
-  <img alt="calcul" src="organigram.png" width="25%">
+  <img alt="calcul" src="images/organigram.png" width="25%">
 </p>
 <p align="center">
-  <img alt="calcul" src="compiled.png" width="45%">
+  <img alt="calcul" src="images/compiled.png" width="45%">
 </p>
 
 # Note Analysis:
